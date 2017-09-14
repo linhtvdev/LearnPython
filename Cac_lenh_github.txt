@@ -1,0 +1,25 @@
+MyPC@GV3 MINGW64 ~
+$ git config --global user.name "Tran Van Linh"
+
+MyPC@GV3 MINGW64 ~ (master)
+$ git config --global user.email "linhtvdev@gmail.com"
+
+
+MyPC@GV3 MINGW64 ~ (master)
+$ cd d:
+
+MyPC@GV3 MINGW64 /d
+$ cd 3-git
+
+MyPC@GV3 MINGW64 /d/3-git (master)
+$ cd python
+
+MyPC@GV3 MINGW64 /d/3-git/python (master)
+$ git clone https://github.com/linhtvdev/LearnPython.git
+Cloning into 'LearnPython'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+MyPC@GV3 MINGW64 /d/3-git/python (master)
+$
