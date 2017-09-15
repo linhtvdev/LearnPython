@@ -11,6 +11,9 @@ git commit -m "add 2 files"
 git push
 
 
+git pull origin    // cap nhat nhung file moi tren remote repo
+
+
 
 
 
