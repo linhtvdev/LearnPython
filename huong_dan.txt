@@ -1,1 +1,16 @@
-tewst
+cd d:
+cd 3-Git
+cd Python
+cd LearnPython
+git init
+git config user.name "linhtvdev"
+git config user.email "linhtvdev@gmail.com"
+git remote set-url origin https://linhtvdev@github.com/linhtvdev/LearnPython.git   // Thiet lap duong dan cho Repo
+git add *
+git commit -m "add 2 files"
+git push
+
+
+
+
+
