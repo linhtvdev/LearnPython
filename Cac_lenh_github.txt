@@ -23,3 +23,5 @@ Unpacking objects: 100% (3/3), done.
 
 MyPC@GV3 MINGW64 /d/3-git/python (master)
 $
+
+$ git remote set-url origin https://linhtvdev@github.com/linhtvdev/LearnPython.git   // Thiet lap duong dan cho Repo
