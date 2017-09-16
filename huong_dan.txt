@@ -17,6 +17,15 @@ git push
 
 git pull origin    // cap nhat nhung file moi tren remote repo
 git pull SharePyThon    // cap nhat nhung file moi tren remote repo
+---------------------
+git branch Python_MrLinh// tao nhanh moi Python_MrLinh (tren local)
+git checkout Python_MrLinh // chuyen den nhanh Python_MrLinh
+git add *
+git commit -m "commit tren nhanh Python_MrLinh"
+git push --set-upstream origin Python_MrLinh
+----------------------
+
+
 
 
 
