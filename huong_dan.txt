@@ -22,9 +22,13 @@ git branch Python_MrLinh// tao nhanh moi Python_MrLinh (tren local)
 git checkout Python_MrLinh // chuyen den nhanh Python_MrLinh
 git add *
 git commit -m "commit tren nhanh Python_MrLinh"
-git push --set-upstream origin Python_MrLinh
+git push --set-upstream origin Python_MrLinh   //push nhanh Python_MrLinh len server
 ----------------------
-
+// Merge nhanh Python_MrLinh len Remote
+git checkout master  // quay ve nhanh chinh  (1)
+git merge Python_MrLinh // merge nhanh Python_MrLinh vao Master (2)
+git push --set-upstream origin master // push len server (3)
+-----------------------
 
 
 
